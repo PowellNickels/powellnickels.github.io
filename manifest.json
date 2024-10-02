@@ -1,0 +1,21 @@
+{
+  "name": "Powell Nickels",
+  "short_name": "Powell Nickels",
+  "description": "Dapp for the Powell Nickels yield-farming game.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
